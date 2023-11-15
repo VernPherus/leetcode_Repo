@@ -4,6 +4,12 @@ Welcome to my very own leetcode repo, where all my codes, be it broken or workin
 
 ---
 
+## Current Course
+
+- Programming Skills
+
+---
+
 ## Included languages
 
 - C
