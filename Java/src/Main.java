@@ -1,11 +1,12 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("====================[CODE TEST ONGOING]====================");
-        FirstOccurenceInString tester = new FirstOccurenceInString();
+        
+        ValidAnagram anagraminator = new ValidAnagram();
 
-        int result = tester.strStr("niniknnakanik", "nik");
+        boolean res = anagraminator.isAnagram( "aacc", "cacc");
 
-        System.out.println(result);
+        System.out.println(res);
 
         System.out.println("====================[CODE TEST ENDED]====================");
     }
