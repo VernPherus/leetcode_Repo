@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("====================[CODE TEST ONGOING]====================");
         
-        ValidAnagram anagraminator = new ValidAnagram();
+        RepeatedSubstring repStringPat = new RepeatedSubstring();
 
-        boolean res = anagraminator.isAnagram( "aacc", "cacc");
+        boolean res = repStringPat.repeatedSubstringPattern("abcabcabc");
 
         System.out.println(res);
 
