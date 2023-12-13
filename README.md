@@ -12,8 +12,6 @@ Welcome to my very own leetcode repo, where all my codes, be it broken or workin
 
 ## Included languages
 
-- C
-- C#
 - C++
 - Kotlin
 - Java
