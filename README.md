@@ -21,3 +21,5 @@ Welcome to my very own leetcode repo, where all my codes, be it broken or workin
 ---
 
 "***Progress isn't linear.***"
+
+[//] # (This is a comment)
