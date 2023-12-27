@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class morseMaker():
     
     global divtxt
@@ -55,3 +56,13 @@ class morseMaker():
         
     
     
+=======
+
+from repeatSubstringPattern import repeatSubstring
+
+
+repeat = repeatSubstring()
+
+print(repeat.repeatedSubstringpattern("abaabab"))
+
+>>>>>>> 0db7b9ea66c795cb6496ebbefc6dc940e4c04e0b
