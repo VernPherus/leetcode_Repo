@@ -16,3 +16,9 @@ var moveZeroes = function(nums) {
     }
 };
 
+let res = [1, 4, 0, 32, 0, 23]
+
+moveZeroes(res)
+
+console.log(res)
+
